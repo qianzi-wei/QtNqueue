@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/img">
+        <file>hg.png</file>
+        <file>view.jpg</file>
+        <file>hgic.png</file>
+    </qresource>
+</RCC>
